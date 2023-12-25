@@ -7,6 +7,6 @@ draft: false
 
 
 > https://docs.github.com/en/actions/using-workflows/reusing-workflows#nesting-reusable-workflows
-1. [x] False
-1. [ ] True
+1. [x] True
+2. [ ] False
 > Reusable workflows can be nested, but there are limitations https://docs.github.com/en/actions/using-workflows/reusing-workflows#limitations
